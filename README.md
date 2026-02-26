@@ -78,9 +78,12 @@ Seluruh indikator dinormalisasi menggunakan metode **Min–Max Scaling** sebelum
 
 ## 🏗️ Project Structure
 
-/backend → API, mesin perhitungan skor, query spasial
-/frontend → Visualisasi WebGIS
-/data → Dataset spasial mentah dan terolah
+### 📁 /backend 
+→ API, mesin perhitungan skor, query spasial
+### 📁 /frontend
+→ Visualisasi WebGIS
+### 📁 /data
+→ Dataset spasial mentah dan terolah
 
 ---
 
